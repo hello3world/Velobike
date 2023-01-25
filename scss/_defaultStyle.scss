@@ -91,3 +91,17 @@ p {
   width: auto;
   overflow-wrap: break-word;
 }
+
+body {
+  font-family: Inter, sans-serif;
+  line-height: 1.2;
+  font-size: 14px;
+  font-weight: 400;
+  color: #131313;
+}
+
+.container {
+  max-width: 1240px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
